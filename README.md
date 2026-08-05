@@ -43,7 +43,7 @@ Explore your surroundings, uncover clues, and find a way to escape — before th
 ## 🎮 Try It Online
 
 Play **Floodead** instantly in your browser—no setup needed:  
-[https://floodead-threejs-horrorgame.vercel.app](https://floodead-threejs-horrorgame.vercel.app)
+[https://floo-dead-three-js-horror-game-seven.vercel.app/](https://floo-dead-three-js-horror-game-seven.vercel.app/)
 
 ---
 
